@@ -4,12 +4,12 @@ import BatImage from "../public/bat.png";
 import { useEffect, useState } from "react";
 
 const ValueArray = [
-  "../public/bau.jpg",
-  "../public/tom.jpg",
-  "../public/cua.jpg",
-  "../public/ca.jpg",
-  "../public/ga.jpg",
-  "../public/huou.jpg",
+  "https://res.cloudinary.com/dcb5n0grf/image/upload/v1706199568/rhn7rhikqsjfxytgppfj.jpg",
+  "https://res.cloudinary.com/dcb5n0grf/image/upload/v1706199569/xsgtj4jmauytnf0l2oew.jpg",
+  "https://res.cloudinary.com/dcb5n0grf/image/upload/v1706199569/k9qjy6utiqahndroiwyy.jpg",
+  "https://res.cloudinary.com/dcb5n0grf/image/upload/v1706199569/u7eb23dz2yh0xxjzeioj.jpg",
+  "https://res.cloudinary.com/dcb5n0grf/image/upload/v1706199568/rvbie7lsxisnaqdbsg1r.jpg",
+  "https://res.cloudinary.com/dcb5n0grf/image/upload/v1706199569/wce6nac2l99bp2ihaqqt.jpg",
 ];
 
 function App() {
